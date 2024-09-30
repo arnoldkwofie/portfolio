@@ -12,7 +12,7 @@
 - B.S., Computer Science | University for Development Studies (_November 2018_)
 
 ## Work Experience
-**Software Engineer @ University of Mines and Technology, Ghana **
+**Software Engineer @ University of Mines and Technology, Ghana**
 - Backend programming - designing, testing, debugging, deploying and implementing computer Applications (.Net Core C#, Laravel-PHP) 
 - Front End programming in C# MVC, Angular and React
 - Maintain infrastructures (Windows IIS, Linux boxes, apache) used to deploy and upgrade processes for applications.
@@ -20,11 +20,11 @@
 - Design automated pipelines to continuously deliver product
 - SQL server & Postgres database administration
 
-**Research Associate and Consultant  @ Aref Consult, South Africa **
+**Research Associate and Consultant  @ Aref Consult, South Africa**
 - Design and development of web Application for AREF Services 
 - Researcher in new financial technology and blockchain
 - 
-**Software Engineer & Instructor @ Gracecoms Inistitute of Technology, Ghana **
+**Software Engineer & Instructor @ Gracecoms Inistitute of Technology, Ghana**
 - Designing, debugging, deploying, and maintaining web applications (laravel - php)
 
 ## Technical Skills Extended
@@ -42,17 +42,16 @@
 
 ## Projects
 ### University management Systems
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 A comprehensive, integrated software solution built with .net core that automates and streamlines the administrative, academic, and financial functions of a university or higher education institution. It centralizes various processes such as admissions, course registration, exam result processing, transcript generation, bank integration and more, providing an efficient platform for managing both student and faculty needs.
 
 ### Thesis Management System
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[https://github.com/arnoldkwofie/Admin-new-install-V2.1](https://github.com/arnoldkwofie/QIMSchoolProThesisService)
 
 A web-based or software application designed to facilitate the management of thesis and dissertation processes within a university or academic institution. The system automates and tracks various stages of the thesis lifecycle, from proposal submission to the final evaluation and approval, providing a structured environment for students, supervisors, and administrators to collaborate efficiently.
 
 ### Kudinki App
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[https://github.com/arnoldkwofie/Admin-new-install-V2.1](https://github.com/arnoldkwofie/Admin-new-install-V2.1)
 
  A delivery platform built using the Laravel framework, designed to facilitate seamless interactions between restaurants, delivery personnel, and customers.
 
