@@ -60,7 +60,7 @@ A web-based or software application designed to facilitate the management of the
 A recommendation system using Autoencoders and Neural Collaborative Filtering (NCF) techniques, leveraging the MovieLens dataset. The objective was to enhance user experience by providing personalized movie recommendations based on user preferences and historical interactions.
 
 
-## Research Arears
+## Research Areas
 - Software Engineering
 - Machine Learning & Deep Learning
 - IOT & Edge Computing
