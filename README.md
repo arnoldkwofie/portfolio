@@ -41,19 +41,25 @@
 - message queuing systems (Kafka, RabbitMQ)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### University management Systems
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+A comprehensive, integrated software solution built with .net core that automates and streamlines the administrative, academic, and financial functions of a university or higher education institution. It centralizes various processes such as admissions, course registration, exam result processing, transcript generation, bank integration and more, providing an efficient platform for managing both student and faculty needs.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Thesis Management System
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+A web-based or software application designed to facilitate the management of thesis and dissertation processes within a university or academic institution. The system automates and tracks various stages of the thesis lifecycle, from proposal submission to the final evaluation and approval, providing a structured environment for students, supervisors, and administrators to collaborate efficiently.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Kudinki App
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+ A delivery platform built using the Laravel framework, designed to facilitate seamless interactions between restaurants, delivery personnel, and customers.
+
+### Autoecoder and NCF enabled Deep learining recommendations with Movielens data
+
+In this project, I developed a recommendation system using Autoencoders and Neural Collaborative Filtering (NCF) techniques, leveraging the MovieLens dataset. The objective was to enhance user experience by providing personalized movie recommendations based on user preferences and historical interactions.
+
 
 ## Research Arears
 - Software Engineering
@@ -68,6 +74,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Conference & Publications
 1. Kwofie A., Mohammed H. and Prasad R., (2022). “Neural Collaborative Filtering and Autoencoder Enabled Deep Learning Models for Recommender Systems”, International Conference on ICT Integration in Technical Education (ETLTC-ICETM), University of Aizu Japan
+
 2. Kwofie A. and Barik A, (2020). “Cloud Security: Using Advance Encryption Standard Algorithm to Secure Cloud Data at Client Side and Taking Measures to Protect it Secrecy”, International Journal of Advance Research and Innovation, v8(3), pp. 223-225
+
 3. Kwofie A., (2020). “Analysis of Embedded Designs in Mechatronic Systems”, International Journal of Advance Research and Innovation, v8(4), pp. 376-378 
 
