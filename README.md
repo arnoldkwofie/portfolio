@@ -23,7 +23,7 @@
 **Research Associate and Consultant  @ Aref Consult, South Africa**
 - Design and development of web Application for AREF Services 
 - Researcher in new financial technology and blockchain
-- 
+  
 **Software Engineer & Instructor @ Gracecoms Inistitute of Technology, Ghana**
 - Designing, debugging, deploying, and maintaining web applications (laravel - php)
 
