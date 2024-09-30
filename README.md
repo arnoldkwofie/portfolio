@@ -46,7 +46,7 @@
 A comprehensive, integrated software solution built with .net core that automates and streamlines the administrative, academic, and financial functions of a university or higher education institution. It centralizes various processes such as admissions, course registration, exam result processing, transcript generation, bank integration and more, providing an efficient platform for managing both student and faculty needs.
 
 ### Thesis Management System
-[https://github.com/arnoldkwofie/Admin-new-install-V2.1](https://github.com/arnoldkwofie/QIMSchoolProThesisService)
+[https://github.com/arnoldkwofie/QIMSchoolProThesisService](https://github.com/arnoldkwofie/QIMSchoolProThesisService)
 
 A web-based or software application designed to facilitate the management of thesis and dissertation processes within a university or academic institution. The system automates and tracks various stages of the thesis lifecycle, from proposal submission to the final evaluation and approval, providing a structured environment for students, supervisors, and administrators to collaborate efficiently.
 
