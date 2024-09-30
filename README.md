@@ -1,4 +1,8 @@
-# Data Scientist
+# Software & AI Engineer
+
+## Professional Sumary
+- Experienced software engineer with demonstrated skills in web, desktop, mobile 
+  application programming and machine learning. 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
