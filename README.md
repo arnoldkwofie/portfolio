@@ -1,18 +1,18 @@
 # Software & AI Engineer
 
-#### Technical Skills: .Net (C#), SQL, Blazor, React, Python, Java, Angular
+#### Technical Skills: .Net (C#), Laravel, Node, SQL, Python, Java, Blazor, React, Angular
 
 ## Professional Sumary
 - Experienced software engineer with demonstrated skills in web, desktop, mobile 
   application programming and machine learning. 
 
-
-## Education       		
+## Education      
+- PhD. in View, Computer Science & Eng	| University of Mines and Technology (_January 2027_)	
 - M.S., Computer Science	| African University of Science and Technology (_November 2022_)	 			        		
 - B.S., Computer Science | University for Development Studies (_November 2018_)
 
 ## Work Experience
-**Software Engineer @ University of Mines and Technology, Ghana (_June 2022 - Present_)**
+**Software Engineer @ University of Mines and Technology, Ghana **
 - Backend programming - designing, testing, debugging, deploying and implementing computer Applications (.Net Core C#, Laravel-PHP) 
 - Front End programming in C# MVC, Angular and React
 - Maintain infrastructures (Windows IIS, Linux boxes, apache) used to deploy and upgrade processes for applications.
@@ -20,11 +20,11 @@
 - Design automated pipelines to continuously deliver product
 - SQL server & Postgres database administration
 
-**Research Associate and Consultant  @ Aref Consult, South Africa (_December 2020 - Present_)**
+**Research Associate and Consultant  @ Aref Consult, South Africa **
 - Design and development of web Application for AREF Services 
 - Researcher in new financial technology and blockchain
 - 
-**Software Engineer & Instructor @ Gracecoms Inistitute of Technology, Ghana (_December 2020 - Present_)**
+**Software Engineer & Instructor @ Gracecoms Inistitute of Technology, Ghana **
 - Designing, debugging, deploying, and maintaining web applications (laravel - php)
 
 ## Technical Skills Extended
