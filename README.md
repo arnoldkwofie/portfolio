@@ -7,9 +7,9 @@
   application programming and machine learning. 
 
 ## Education      
-- PhD. in View, Computer Science & Eng	| University of Mines and Technology (_January 2027_)	
-- M.S., Computer Science	| African University of Science and Technology (_November 2022_)	 			        		
-- B.S., Computer Science | University for Development Studies (_November 2018_)
+- PhD. in View, Computer Science & Eng	| University of Mines and Technology, Ghana (_January 2027_)	
+- M.S., Computer Science	| African University of Science and Technology, Nigeria (_November 2022_)	 			        		
+- B.S., Computer Science | University for Development Studies, Ghana (_November 2018_)
 
 ## Work Experience
 **Software Engineer @ University of Mines and Technology, Ghana**
