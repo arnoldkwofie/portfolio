@@ -41,11 +41,11 @@
 - message queuing systems (Kafka, RabbitMQ)
 
 ## Projects
-### University management Systems
+### University Management System
 
 A comprehensive, integrated software solution built with .net core that automates and streamlines the administrative, academic, and financial functions of a university or higher education institution. It centralizes various processes such as admissions, course registration, exam result processing, transcript generation, bank integration and more, providing an efficient platform for managing both student and faculty needs.
 
-### Thesis Management System
+### Thesis Submission & Assessment Portal
 [https://github.com/arnoldkwofie/QIMSchoolProThesisService](https://github.com/arnoldkwofie/QIMSchoolProThesisService)
 
 A web-based or software application designed to facilitate the management of thesis and dissertation processes within a university or academic institution. The system automates and tracks various stages of the thesis lifecycle, from proposal submission to the final evaluation and approval, providing a structured environment for students, supervisors, and administrators to collaborate efficiently.
@@ -57,7 +57,7 @@ A web-based or software application designed to facilitate the management of the
 
 ### Autoecoder and NCF enabled Deep learining recommendations with Movielens data
 
-In this project, I developed a recommendation system using Autoencoders and Neural Collaborative Filtering (NCF) techniques, leveraging the MovieLens dataset. The objective was to enhance user experience by providing personalized movie recommendations based on user preferences and historical interactions.
+A recommendation system using Autoencoders and Neural Collaborative Filtering (NCF) techniques, leveraging the MovieLens dataset. The objective was to enhance user experience by providing personalized movie recommendations based on user preferences and historical interactions.
 
 
 ## Research Arears
